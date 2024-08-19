@@ -1,4 +1,23 @@
-# Check your Balance
+# Crypto Token
+
+1. To start, run:
+
+```
+dfx start
+```
+
+2. To deploy canisters on local computer:
+```
+dfx deploy
+```
+
+3. Running backend and fron-end:
+
+```
+npm start
+```
+
+# Check Balance
 
 1. Find out your principal id:
 
